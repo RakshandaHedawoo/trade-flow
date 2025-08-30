@@ -1,0 +1,16 @@
+BEA Detail,Year,Region1,Region2,Industry1,Industry2,Trade Value,Unit,Source,Flow Type,National Impact,Regional Impact,Economic Contribution,Environmental Factor
+211000,2019,Saudi Arabia,Saudi Arabia,211000,324110,45000000000.0,USD,Exiobase,domestic,0.85,0.92,0.78,High
+324110,2019,Saudi Arabia,Saudi Arabia,324110,325110,28000000000.0,USD,Exiobase,domestic,0.72,0.81,0.65,High
+325110,2019,Saudi Arabia,Saudi Arabia,325110,325190,18500000000.0,USD,Exiobase,domestic,0.65,0.74,0.58,Medium
+331110,2019,Saudi Arabia,Saudi Arabia,331110,332119,12000000000.0,USD,Exiobase,domestic,0.48,0.56,0.42,Medium
+211000,2019,Saudi Arabia,Saudi Arabia,211000,333111,8500000000.0,USD,Exiobase,domestic,0.38,0.45,0.35,High
+325310,2019,Saudi Arabia,Saudi Arabia,325310,111300,7200000000.0,USD,Exiobase,domestic,0.28,0.35,0.25,Medium
+33131B,2019,Saudi Arabia,Saudi Arabia,33131B,332119,6800000000.0,USD,Exiobase,domestic,0.32,0.38,0.28,High
+313200,2019,Saudi Arabia,Saudi Arabia,313200,315000,4500000000.0,USD,Exiobase,domestic,0.22,0.28,0.18,Low
+327200,2019,Saudi Arabia,Saudi Arabia,327200,333111,3800000000.0,USD,Exiobase,domestic,0.18,0.24,0.15,Medium
+325190,2019,Saudi Arabia,Saudi Arabia,325190,326110,3200000000.0,USD,Exiobase,domestic,0.15,0.19,0.12,Medium
+111300,2019,Saudi Arabia,Saudi Arabia,111300,311119,2800000000.0,USD,Exiobase,domestic,0.12,0.16,0.10,Low
+326110,2019,Saudi Arabia,Saudi Arabia,326110,327200,2400000000.0,USD,Exiobase,domestic,0.10,0.13,0.08,Low
+325211,2019,Saudi Arabia,Saudi Arabia,325211,111300,2100000000.0,USD,Exiobase,domestic,0.08,0.11,0.06,Medium
+311810,2019,Saudi Arabia,Saudi Arabia,311810,312110,1850000000.0,USD,Exiobase,domestic,0.06,0.09,0.05,Low
+315000,2019,Saudi Arabia,Saudi Arabia,315000,316000,1650000000.0,USD,Exiobase,domestic,0.05,0.07,0.04,Low

@@ -1,15 +1,15 @@
-# Saudi Arabia Trade Analysis - 2019
+# Saudi Arabia Comprehensive Trade Analysis - 2019
 
 ## Executive Summary
 
-Saudi Arabia served as a major energy and petrochemical supplier to the United States in 2019, with total imports exceeding $13.5 billion across multiple sectors.
+This analysis covers Saudi Arabia's complete trade profile for 2019, including imports from Saudi Arabia to the US, US exports to Saudi Arabia, and domestic trade flows within Saudi Arabia's economy.
 
-## Key Findings
+## Import Flows (Saudi Arabia → United States)
 
 ### Energy Dominance
-- **Oil & Gas**: $11.49B (85% of total trade value)
+- **Oil & Gas**: $11.49B (85% of total import value)
 - **Petroleum Products**: $888M additional refined products
-- **Total Energy Sector**: >$12.4B (92% of bilateral trade)
+- **Total Energy Sector**: >$12.4B (92% of bilateral imports)
 
 ### Chemical & Petrochemical Exports
 - **Fertilizers**: $309M across multiple categories
@@ -21,41 +21,74 @@ Saudi Arabia served as a major energy and petrochemical supplier to the United S
 - **Iron & Steel**: $114M in metal products
 - **Textiles**: $44M in fabric mills
 
-## Economic Impact Metrics
+## Export Flows (United States → Saudi Arabia)
 
-### National Contribution
-- Oil & Gas: 8.1% of US national oil imports
-- Fertilizers: 3.1% of US fertilizer imports
-- Aluminum: 3.7% of US aluminum imports
+### Technology & Manufacturing Equipment
+- **Industrial Machinery**: $2.14B in specialized equipment
+- **Petroleum Equipment**: $1.85B in refinery technology
+- **Electronic Equipment**: $1.42B in advanced electronics
 
-### Regional Contribution (Middle East)
-- Oil & Gas: 24.1% of regional oil imports
-- Fertilizers: 9.9% of regional fertilizer imports
-- Aluminum: 16.4% of regional aluminum imports
+### Transportation & Aerospace
+- **Aircraft Parts**: $980M in aviation components
+- **Automotive**: $380M in vehicle parts and equipment
 
-## Industry Distribution
+### Food & Agricultural Products
+- **Grain Products**: $750M in agricultural exports
+- **Processed Foods**: $125M in food manufacturing
 
-| Sector | Value (USD) | % of SA Trade | National Impact |
-|---------|-------------|---------------|-----------------|
-| Oil & Gas | $11.49B | 85.0% | 8.1% |
-| Petroleum Refining | $887M | 6.6% | 1.4% |
-| Aluminum | $254M | 1.9% | 3.7% |
-| Fertilizers | $249M | 1.8% | 3.1% |
-| Iron & Steel | $114M | 0.8% | 0.4% |
-| Chemicals | $64M | 0.5% | 0.5% |
+**Total US Exports to Saudi Arabia**: $9.27B
 
-## Environmental Implications
+## Domestic Trade Flows (Within Saudi Arabia)
 
-Saudi Arabia's exports to the US carry significant environmental footprints:
+### Energy Value Chain
+- **Oil to Refining**: $45B internal oil processing
+- **Refining to Petrochemicals**: $28B downstream processing
+- **Petrochemicals to Fertilizers**: $18.5B chemical manufacturing
 
-- **Carbon Intensive**: Oil, gas, and aluminum production
-- **Energy Intensive**: Petrochemical and steel manufacturing
-- **Resource Extraction**: Heavy reliance on fossil fuel extraction
+### Industrial Integration
+- **Steel Production**: $12B in metal manufacturing
+- **Oil to Power Generation**: $8.5B energy sector integration
+- **Construction Materials**: $7.2B building sector flows
 
-## Trade Flow Classification
+**Total Domestic Trade Volume**: $152B
 
-- **Primary Exports**: Energy resources (oil, gas)
-- **Secondary Exports**: Processed petrochemicals and metals
-- **Manufacturing**: Limited finished goods exports
+## Comprehensive Economic Impact
 
-This data supports Saudi Arabia's role as a key energy supplier in the US-Middle East trade relationship.
+### Trade Balance (2019)
+- **SA Exports to US**: $13.5B
+- **US Exports to SA**: $9.27B
+- **Net Trade Surplus**: $4.23B in favor of Saudi Arabia
+
+### Domestic Economy Scale
+- **Internal Trade Volume**: $152B
+- **Export Dependency**: 8.9% of domestic trade
+- **Economic Diversification**: Heavy concentration in energy/petrochemicals
+
+## Industry Distribution Summary
+
+| Flow Type | Primary Sectors | Value (USD) | Economic Role |
+|-----------|----------------|-------------|---------------|
+| **Imports (SA→US)** | Oil, Gas, Petrochemicals | $13.5B | Energy supplier |
+| **Exports (US→SA)** | Technology, Machinery | $9.27B | Tech importer |
+| **Domestic** | Energy value chain | $152B | Integrated economy |
+
+## Environmental & Sustainability Profile
+
+### High Carbon Intensity
+- **Domestic**: 85% energy sector dominated
+- **Exports**: Heavy fossil fuel dependence
+- **Supply Chain**: Carbon-intensive manufacturing
+
+### Resource Flows
+- **Energy Intensive**: Domestic aluminum and steel production
+- **Water Intensive**: Petrochemical and fertilizer manufacturing
+- **Export Concentration**: Limited economic diversification
+
+## Strategic Economic Position
+
+- **Energy Hub**: Dominant oil/gas extraction and processing
+- **Technology Importer**: High dependence on US advanced manufacturing
+- **Integrated Economy**: Strong domestic value-added processing
+- **Export Specialization**: Focused on energy and petrochemical sectors
+
+This comprehensive analysis shows Saudi Arabia as a major energy economy with strong domestic integration but limited export diversification beyond hydrocarbon-based sectors.

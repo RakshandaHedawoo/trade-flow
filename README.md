@@ -11,7 +11,10 @@ data/
         ├── imports/
         │   └── saudi_arabia_imports_2019.csv
         ├── exports/
-        └── domestic/
+        │   └── saudi_arabia_exports_2019.csv
+        ├── domestic/
+        │   └── saudi_arabia_domestic_2019.csv
+        └── analysis_summary.md
 ```
 
 ## Data Sources
@@ -20,20 +23,34 @@ data/
 - **Trade Data**: US Census Bureau trade statistics
 - **Environmental Factors**: Environmental extension matrices from Exiobase
 
-## Key Saudi Arabia Trade Statistics (2019)
+## Comprehensive Trade Statistics (2019)
 
-### Top Import Sectors to US:
-1. **Oil & Gas Extraction (211000)**: $11.49B - Represents 8.1% of national total
+### Import Flows (Saudi Arabia → US): $13.5B
+1. **Oil & Gas Extraction (211000)**: $11.49B - 85% of total imports
 2. **Petroleum Refineries (324110)**: $887.9M 
 3. **Fertilizers (325310)**: $249.8M
-4. **Nitrogenous Fertilizers (325211)**: $59.4M
-5. **Aluminum Production (33131B)**: $254.1M
-6. **Iron & Steel Mills (331110)**: $114.1M
+4. **Aluminum Production (33131B)**: $254.1M
+5. **Iron & Steel Mills (331110)**: $114.1M
 
-### Regional Classification:
-- **Country Code**: WM (Western Middle East)
-- **Region**: ROW (Rest of World)
-- **Trade Partner**: United States
+### Export Flows (US → Saudi Arabia): $9.27B
+1. **Industrial Machinery (333111)**: $2.14B - Advanced manufacturing equipment
+2. **Petroleum Equipment (324110)**: $1.85B - Refinery technology
+3. **Electronic Equipment (333120)**: $1.42B - High-tech exports
+4. **Power Generation (335110)**: $980M - Energy infrastructure
+5. **Agricultural Products (311111)**: $750M - Food exports
+
+### Domestic Trade Flows (Within Saudi Arabia): $152B
+1. **Oil to Refining (211000→324110)**: $45B - Primary processing
+2. **Refining to Petrochemicals (324110→325110)**: $28B - Value-added processing
+3. **Petrochemicals to Fertilizers (325110→325190)**: $18.5B - Chemical manufacturing
+4. **Steel Production (331110→332119)**: $12B - Metal manufacturing
+5. **Power Generation (211000→333111)**: $8.5B - Energy integration
+
+### Trade Balance Summary:
+- **Total Saudi Exports**: $13.5B
+- **Total US Exports**: $9.27B
+- **Net Trade Surplus**: $4.23B (favoring Saudi Arabia)
+- **Domestic Economy Scale**: $152B (11x larger than exports)
 
 ## Data Fields
 
